@@ -22,6 +22,7 @@ jobs:
         run: npm install --save-dev @semantic-release/changelog @semantic-release/git
       - name: Call script
         uses: nkitaiev/test_version_1@main
+      - name: BUeeee
         run: |
           chmod +x ./scripts/test.sh
           ./scripts/test.sh
