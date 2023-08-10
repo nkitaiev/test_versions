@@ -20,6 +20,10 @@ jobs:
         run: npm i
       - name: Install semantic-release extra plugins
         run: npm install --save-dev @semantic-release/changelog @semantic-release/git
+      - name: Call script
+        uses: nkitaiev/test_version_1@main
+        script:
+          - ./scripts/test.sh
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
