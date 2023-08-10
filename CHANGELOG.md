@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/nkitaiev/test_versions/compare/v1.2.0...v1.3.0) (2023-08-10)
+
+
+### Features
+
+* **logging:** added logs for failed signups ([16d4828](https://github.com/nkitaiev/test_versions/commit/16d4828ada93fef3c2089f1cbf1e0ebc223ce424))
+* **logging:** added logs for failed signups ([bb39d4b](https://github.com/nkitaiev/test_versions/commit/bb39d4b2a0c833987564e3ece5e147d90594305c))
+* **logging:** added logs for failed signups ([a709159](https://github.com/nkitaiev/test_versions/commit/a70915917164104441332fb4315b01a4b7730273))
+
 # [1.2.0](https://github.com/nkitaiev/test_versions/compare/v1.1.0...v1.2.0) (2023-08-10)
 
 
