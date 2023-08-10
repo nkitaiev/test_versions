@@ -1,0 +1,1 @@
+echo "Version $VERSION already exists"
