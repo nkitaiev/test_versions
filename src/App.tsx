@@ -7,8 +7,6 @@ function App() {
         <Navbar />
         sdfasfsdf
         cxzvxcv
-
-        asdfsdf
         <Router />
     </div>
   );
